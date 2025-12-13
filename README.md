@@ -1,7 +1,7 @@
 # Hi, I'm Francesco Marko 👋
 
 I'm a **Software Developer @ Ericsson Nikola Tesla** and a **Freelance Next.js Developer**.  
-I build fast, modern, user-focused web applications with a strong emphasis on clean architecture and high-quality user experience.
+I build fast, modern, user-focused web applications with a strong emphasis on clean architecture and high quality user experience.
 
 ---
 
@@ -18,7 +18,7 @@ Stats generated using:
 ## 🚀 Recent Projects
 
 ### 1. [dev-events](https://github.com/markolivaic/dev-events)
-A platform that aggregates developer conferences, meetups, and tech events — built for speed, simplicity, and discoverability.
+A platform that aggregates developer conferences, meetups, and tech events built for speed, simplicity, and discoverability.
 
 ### 2. [business-proposal-system](https://github.com/markolivaic/business-proposal-system)
 A streamlined business proposal generator system with support for automated document creation and internal workflows.

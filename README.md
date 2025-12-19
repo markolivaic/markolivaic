@@ -15,7 +15,7 @@ Stats generated using:
 
 ---
 
-## 🚀 Recent Projects
+## Recent Projects
 
 ### 1. [dev-events](https://github.com/markolivaic/dev-events)
 A platform that aggregates developer conferences, meetups, and tech events built for speed, simplicity, and discoverability.

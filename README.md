@@ -1,6 +1,6 @@
 # Hi, I'm Francesco Marko 👋
 
-I'm a **Software Developer @ Ericsson Nikola Tesla** and a **Freelance Next.js Developer**.  
+I'm a **Software Developer @ Ericsson Nikola Tesla**.
 I build fast, modern, user-focused web applications with a strong emphasis on clean architecture and high quality user experience.
 
 ---

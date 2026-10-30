@@ -1,4 +1,4 @@
-### Francesco Marko Livaić
+<img src="assets/header.gif" alt="Earth's land as points, with 18,983 tracked objects moving in their orbital planes" width="100%">
 
 Software developer in Zagreb and Linz. I build systems, then measure whether they work.
 
